@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Tianran Zhang</title>
+    <link>/publication/</link>
+      <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 21 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu89aa1c2e3b8bc3994ce346ca9104e172_320790_512x512_fill_lanczos_center_3.png</url>
+      <title>Publications</title>
+      <link>/publication/</link>
+    </image>
+    
+    <item>
+      <title>Lower objectively and subjectively assessed numeracy are both associated with poorer self-rated health</title>
+      <link>/publication/numercy/</link>
+      <pubDate>Sat, 21 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/numercy/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;  &lt;br&gt;
+&lt;em&gt;&lt;strong&gt;Object&lt;/strong&gt;&lt;/em&gt; &lt;br&gt;
+To compare an objective with a subjective numeracy assessment for association with self-reported health status, where numeracy refers to “the degree to which individuals have the capacity to access, process, interpret, communicate, and act on numerical, quantitative, graphical, biostatistical, and probabilistic health information needed to make effective health decisions”&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Results&lt;/strong&gt;&lt;/em&gt; &lt;br&gt;
+We completed a secondary analysis of two population-based surveys, the Empire State Poll (n = 763) and the Program for the International Assessment of Adult Competencies (PIAAC; n = 2609). The first survey assessed numeracy with a 3-item subjective instrument. The second assessed numeracy with more than 20 math problems. Both used the same measure for self-reported health status. Lower numeracy, whether subjectively or objectively assessed, was associated with worse self-reported health, even after controlling for education and other sociodemographic confounders. The odds ratios for the association were very similar (0.91 and 0.90 respectively). A lengthy objective numeracy assessment and a brief self-report assessment had similar associations with health status. A brief self-report measure of numeracy has similar properties to a lengthy objective assessment and is likely to be more feasible to use to screen patients in practice.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

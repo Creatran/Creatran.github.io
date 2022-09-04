@@ -1,0 +1,1002 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tianran Zhang</title>
+    <link>/</link>
+      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tianran Zhang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu89aa1c2e3b8bc3994ce346ca9104e172_320790_512x512_fill_lanczos_center_3.png</url>
+      <title>Tianran Zhang</title>
+      <link>/</link>
+    </image>
+    
+    <item>
+      <title>Example Talk</title>
+      <link>/talk/example-talk/</link>
+      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+      <guid>/talk/example-talk/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Further event details, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page elements&lt;/a&gt; such as image galleries, can be added to the body of this page.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Chick-fil-A</title>
+      <link>/lifestyle/chick-fill-a/</link>
+      <pubDate>Sun, 29 May 2022 00:00:00 +0000</pubDate>
+      <guid>/lifestyle/chick-fill-a/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Rating:&lt;/em&gt; 5 Star&lt;/p&gt;
+&lt;p&gt;Chick-fil-A&amp;rsquo;s manu is neat,&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Tips:&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.in-n-out.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Website&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>In-N-Out</title>
+      <link>/lifestyle/burger-king/</link>
+      <pubDate>Sun, 29 May 2022 00:00:00 +0000</pubDate>
+      <guid>/lifestyle/burger-king/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Rating:&lt;/em&gt; 5 Star&lt;/p&gt;
+&lt;p&gt;In-N-Out must be one of the most famous burgers in California. It&amp;rsquo;s tasty with fresh ingredients and sunflower oil to fry fries with incredible low prices.&lt;/p&gt;
+&lt;p&gt;Their menu is simple, with cheeseburger and double-double (which contains two beef paties for meat lovers), french fries and drink fountains.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Tips:&lt;/em&gt; Try their secret menu to have grilled onions, extra toast bun, and if you are a cheese lover, the monster style to add double cheese on your fries!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.in-n-out.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Website&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>In-N-Out</title>
+      <link>/lifestyle/in-n-out/</link>
+      <pubDate>Sun, 29 May 2022 00:00:00 +0000</pubDate>
+      <guid>/lifestyle/in-n-out/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Rating:&lt;/em&gt; 5 Star&lt;/p&gt;
+&lt;p&gt;In-N-Out must be one of the most famous burgers in California. It&amp;rsquo;s tasty with fresh ingredients and sunflower oil to fry fries with incredible low prices.&lt;/p&gt;
+&lt;p&gt;Their menu is simple, with cheeseburger and double-double (which contains two beef paties for meat lovers), french fries and drink fountains.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Tips:&lt;/em&gt; Try their secret menu to have grilled onions, extra toast bun, and if you are a cheese lover, the monster style to add double cheese on your fries!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.in-n-out.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Website&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>In-N-Out</title>
+      <link>/lifestyle/jack-in-the-box/</link>
+      <pubDate>Sun, 29 May 2022 00:00:00 +0000</pubDate>
+      <guid>/lifestyle/jack-in-the-box/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Rating:&lt;/em&gt; 5 Star&lt;/p&gt;
+&lt;p&gt;In-N-Out must be one of the most famous burgers in California. It&amp;rsquo;s tasty with fresh ingredients and sunflower oil to fry fries with incredible low prices.&lt;/p&gt;
+&lt;p&gt;Their menu is simple, with cheeseburger and double-double (which contains two beef paties for meat lovers), french fries and drink fountains.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Tips:&lt;/em&gt; Try their secret menu to have grilled onions, extra toast bun, and if you are a cheese lover, the monster style to add double cheese on your fries!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.in-n-out.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Website&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>In-N-Out</title>
+      <link>/lifestyle/katsu-burger/</link>
+      <pubDate>Sun, 29 May 2022 00:00:00 +0000</pubDate>
+      <guid>/lifestyle/katsu-burger/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Rating:&lt;/em&gt; 5 Star&lt;/p&gt;
+&lt;p&gt;In-N-Out must be one of the most famous burgers in California. It&amp;rsquo;s tasty with fresh ingredients and sunflower oil to fry fries with incredible low prices.&lt;/p&gt;
+&lt;p&gt;Their menu is simple, with cheeseburger and double-double (which contains two beef paties for meat lovers), french fries and drink fountains.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Tips:&lt;/em&gt; Try their secret menu to have grilled onions, extra toast bun, and if you are a cheese lover, the monster style to add double cheese on your fries!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.in-n-out.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Website&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>In-N-Out</title>
+      <link>/lifestyle/red-robin/</link>
+      <pubDate>Sun, 29 May 2022 00:00:00 +0000</pubDate>
+      <guid>/lifestyle/red-robin/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Rating:&lt;/em&gt; 5 Star&lt;/p&gt;
+&lt;p&gt;In-N-Out must be one of the most famous burgers in California. It&amp;rsquo;s tasty with fresh ingredients and sunflower oil to fry fries with incredible low prices.&lt;/p&gt;
+&lt;p&gt;Their menu is simple, with cheeseburger and double-double (which contains two beef paties for meat lovers), french fries and drink fountains.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Tips:&lt;/em&gt; Try their secret menu to have grilled onions, extra toast bun, and if you are a cheese lover, the monster style to add double cheese on your fries!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.in-n-out.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Website&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Popeyes</title>
+      <link>/lifestyle/pop-eyes/</link>
+      <pubDate>Sun, 29 May 2022 00:00:00 +0000</pubDate>
+      <guid>/lifestyle/pop-eyes/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Rating:&lt;/em&gt; 4 Star&lt;/p&gt;
+&lt;p&gt;The first bite of popeyes chicken sandwitch is amazing!! It is definitely not one of the most healthies burgers, I can taste the oily and heavy salts, but once in several months, I will let it go and give myself a break without concentrating on the calories I consume lol.&lt;/p&gt;
+&lt;p&gt;However, the popeyes stores in Seattle area are very corse. Everytime I went there is a long car line waiting to get orders. I really miss the ones in NYC which even provides free dilivery and those in CAs which only takes a few mins to prepare my order!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.popeyes.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Website&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Blaze Pizza</title>
+      <link>/lifestyle/blaze-pizza/</link>
+      <pubDate>Sat, 28 May 2022 00:00:00 +0000</pubDate>
+      <guid>/lifestyle/blaze-pizza/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Rating:&lt;/em&gt; 5 Star&lt;/p&gt;
+&lt;p&gt;Fired pizza is always my favarite, and their garlic pesto sauce opened a new world for me. It is amazing! Besides the based sauce, I would recommend ordering their pizza with unlimited toppings. Their artichokes is on my topping list all the time. My sense of happiness goes up and up when holding a slice of pizza on Friday night. :)&lt;/p&gt;
+&lt;p&gt;BTW this pizza store is funded by LeBron James.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Tips:&lt;/em&gt; Online specials worth a try!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.blazepizza.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Website&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Domino&#39;s</title>
+      <link>/lifestyle/dominos/</link>
+      <pubDate>Sat, 28 May 2022 00:00:00 +0000</pubDate>
+      <guid>/lifestyle/dominos/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Rating:&lt;/em&gt; 4 Star&lt;/p&gt;
+&lt;p&gt;Domino&amp;rsquo;s is the cheapest pizza I have ever had in US. Its brooklin style has thin crust like a cookie. It provides many coupons that covers all types of pizzas and chicken wings. It&amp;rsquo;s hand-made pizza claimed to use dough that has never been frosen.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Tips:&lt;/em&gt; It only takes $40 to Purchase a $50 gift card.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.dominos.com/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Website&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Fresh Brothers</title>
+      <link>/lifestyle/fresh-brothers/</link>
+      <pubDate>Sat, 28 May 2022 00:00:00 +0000</pubDate>
+      <guid>/lifestyle/fresh-brothers/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Rating:&lt;/em&gt; 4 Star&lt;/p&gt;
+&lt;p&gt;Despite its delicious pizza, I&amp;rsquo;d like to praise its fresh yummy chicken wings and its special mongo habanero sauce!&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Tips:&lt;/em&gt; Online specials worth a try!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.freshbrothers.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Website&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Panera Bread</title>
+      <link>/lifestyle/panera-bread/</link>
+      <pubDate>Thu, 26 May 2022 00:00:00 +0000</pubDate>
+      <guid>/lifestyle/panera-bread/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Rating:&lt;/em&gt; 4 Star&lt;/p&gt;
+&lt;p&gt;I love to have Panera bread as dinner when too lazy to cook. It&amp;rsquo;s supper efficient and delicious as well! My choice is always the &amp;ldquo;You Pick Two&amp;rdquo; combo:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Chipotle Chicken &amp;amp; Bacon Flatbread Pizza&lt;/strong&gt;&lt;br&gt;
+with Extra Cilantro&lt;br&gt;
+with Extra Red Grape Tomatoes&lt;br&gt;
+with Light Garlic Cream Sauce&lt;br&gt;
+with Light Choipotle Aioli&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Half Sandwich&lt;/strong&gt; (depends on that day&amp;rsquo;s mood)   &lt;br&gt;
+with Tomato Basil Bread&lt;br&gt;
+with Cucumber&lt;br&gt;
+with Arugula&lt;br&gt;
+with Light Chipotle Sauce&lt;br&gt;
+with Light Salt &amp;amp; Pepper&lt;br&gt;
+with Cilantro&lt;br&gt;
+with Emerald Greens&lt;/p&gt;
+&lt;p&gt;Besides these 2 entrees, their chips and Baguette is also worth a try!&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Tips:&lt;/em&gt; Purchse a $50 giftcard will give you extra $10!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.panerabread.com/en-us/home.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Website&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Lower objectively and subjectively assessed numeracy are both associated with poorer self-rated health</title>
+      <link>/publication/numercy/</link>
+      <pubDate>Sat, 21 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/numercy/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;  &lt;br&gt;
+&lt;em&gt;&lt;strong&gt;Object&lt;/strong&gt;&lt;/em&gt; &lt;br&gt;
+To compare an objective with a subjective numeracy assessment for association with self-reported health status, where numeracy refers to “the degree to which individuals have the capacity to access, process, interpret, communicate, and act on numerical, quantitative, graphical, biostatistical, and probabilistic health information needed to make effective health decisions”&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Results&lt;/strong&gt;&lt;/em&gt; &lt;br&gt;
+We completed a secondary analysis of two population-based surveys, the Empire State Poll (n = 763) and the Program for the International Assessment of Adult Competencies (PIAAC; n = 2609). The first survey assessed numeracy with a 3-item subjective instrument. The second assessed numeracy with more than 20 math problems. Both used the same measure for self-reported health status. Lower numeracy, whether subjectively or objectively assessed, was associated with worse self-reported health, even after controlling for education and other sociodemographic confounders. The odds ratios for the association were very similar (0.91 and 0.90 respectively). A lengthy objective numeracy assessment and a brief self-report assessment had similar associations with health status. A brief self-report measure of numeracy has similar properties to a lengthy objective assessment and is likely to be more feasible to use to screen patients in practice.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Intubation Prediction</title>
+      <link>/project/intubationprediction/</link>
+      <pubDate>Thu, 23 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/project/intubationprediction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ESP 2019 Data Analysis</title>
+      <link>/project/capstone/</link>
+      <pubDate>Thu, 09 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/project/capstone/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Title&lt;/strong&gt; &lt;br&gt;
+Association of Numeracy Scales with Self-Reported Health Status and Healthcare-Provider Visits.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Background&lt;/strong&gt;  &lt;br&gt;
+Poor numeracy is likely to affect health because it may interfere with peoples’ ability to understand their health data and instructions from doctors.   &lt;br&gt;
+&lt;strong&gt;Objective&lt;/strong&gt; &lt;br&gt;
+To test the hypothesis that numeracy is associated with (a) self-reported health, and (b) healthcare-provider visits.  &lt;br&gt;
+&lt;strong&gt;Study Design&lt;/strong&gt; &lt;br&gt;
+Two survey studies, a random-digit-dial telephone survey in New York State (Empire State Poll), and an international survey on adult education (PIAAC).
+&lt;strong&gt;Study Subjects&lt;/strong&gt; &lt;br&gt;
+800 NYS residents aged over 18 in ESP and 3660 US residents aged over 16 in PIAAC.  &lt;br&gt;
+&lt;strong&gt;Study Variables&lt;/strong&gt;  &lt;br&gt;
+ESP Predictor: numeracy measured by a 3-item version of the Subjective Numeracy Scale (SNS); Outcomes: self-report health status and healthcare-provider visits in the past 12 months. PIAAC Predictor: numeracy proficiency scale including 56 tasks. For both surveys, demographic covariates include gender, age, education, income, race, and ethnicity.  &lt;br&gt;
+&lt;strong&gt;Results&lt;/strong&gt; &lt;br&gt;
+(a) Weighted multivariate logistic regression on the dichotomized binary health status showed that people with higher numeracy scores tended to be in better health controlling other covariates. Education and income were positively associated with health status, while age was negatively associated with it. The results were similar to those of the nationwide PIAAC data, except that ethnicity was not associated with health status in PIAAC study. The ESP regression overperformed PIAAC regression with a lower AUC.    &lt;br&gt;
+(b) Though the relationship between numeracy and visits to care providers were not significantly correlated, males and females showed different habits of visiting doctors. There was no association between numeracy and healthcare-provider visits in the female subset of ESP data controlling other covariates. However, the weighted ordinal multinomial regression showed that numeracy was negatively associated with doctor visits for males. &lt;br&gt;
+&lt;strong&gt;Conclusion&lt;/strong&gt;  &lt;br&gt;
+Higher numeracy is related to better self-reported health status. There is a gender difference in healthcare-providers visits that numeracy plays a role in males but not in the female subgroup.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Faculty Advisor&lt;/em&gt;: Dr. Jessica Ancker&lt;br&gt;
+&lt;em&gt;Client&lt;/em&gt;: Dr. Jessica Ancker &lt;br&gt;
+&lt;em&gt;Team Members&lt;/em&gt;: Tianran Zhang, Haojia Li, Zihan Yang&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Heart Disease Prediction with ML methods</title>
+      <link>/project/heart-diesase/</link>
+      <pubDate>Sun, 12 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/project/heart-diesase/</guid>
+      <description>&lt;p&gt;The World Health Organization has estimated that 12 million deaths occur worldwide every year due to the heart disease. In the United States, cardiovascular diseases are the number 1 cause of death in adults. Early diagnosis is the key to prevent heart related deaths. Potential cardiovascular patients are often sent for multiple tests, and these test results help the doctors to make a diagnosis. The accuracy of the diagnosis often relies on the individual doctor’s knowledge and experiences. In order to improve the accuracy of the diagnosis, a group of medical researchers collected patient data from 4 national hospitals; two in the United States, and two in Europe. The data set HD.xlsx includes the patients age, gender, 11 test results, and ﬁnal diagnosis. The patient data from the two US hospitals and two European hospitals are saved in the 4 tabs, labeled “US1”, “US2”, “EU1”, “EU2”, respectively. The dictionary of all variables is saved in the tab “Dictionary”. Assume that no patient within is correlated with other patients within hospital.&lt;/p&gt;
+&lt;p&gt;In order to ﬁnd the factors that signiﬁcantly contribute to the accuracy of diagnosis, I conducted two approaches sequentially.&lt;br&gt;
+a) Detect the presence of CVD: dichotomize the severity variable and consider the presence of narrowing vessel as response variable.&lt;/p&gt;
+&lt;p&gt;b) Predict the severity of CVD: build a model with the severity of heart disease as response variable.&lt;/p&gt;
+&lt;p&gt;I developed several statistical models including GLM, KNN, SVM, and SDA to use the medical test results to help predict the likelihood of the presence of heart disease as well as its severity. The overall prediction accuracy is 84.78% in detecting the presence of CVD, and 64.1% in detecting the severity of CVD.&lt;/p&gt;
+&lt;p&gt;I also took a consideration on the costs of different test, and revise the final model with 6 predictors to balance between cost and effectivceness. The prediction accuracy for the revided model is 80.43% in predicting the presence of CVD, and 53.3% in predicting the severity of CVD.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Test&lt;/th&gt;
+&lt;th&gt;Cost&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;cp&lt;/td&gt;
+&lt;td&gt;Immediate results, no additional cost&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;thestbps&lt;/td&gt;
+&lt;td&gt;Immediate results, no additional cost&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;chol&lt;/td&gt;
+&lt;td&gt;$7.27, need one day laboratory work&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;fbs&lt;/td&gt;
+&lt;td&gt;$5.20, need one day laboratory work&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;restecg&lt;/td&gt;
+&lt;td&gt;$15.50, need one day laboratory work&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;thalach&lt;/td&gt;
+&lt;td&gt;$102.90, need one day laboratory work&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;exang&lt;/td&gt;
+&lt;td&gt;$87.30, need one day laboratory work&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;oldpeak&lt;/td&gt;
+&lt;td&gt;$87.30, need one day laboratory work&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;slope&lt;/td&gt;
+&lt;td&gt;$87.30, need one day laboratory work&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;ca&lt;/td&gt;
+&lt;td&gt;$100.90, need one day laboratory work&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;thal&lt;/td&gt;
+&lt;td&gt;$102.90, need one day laboratory work&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SCR R Package</title>
+      <link>/project/scr/</link>
+      <pubDate>Fri, 13 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/project/scr/</guid>
+      <description>&lt;p&gt;An educational use R package corresponding to Rizzo&amp;rsquo;s book &lt;a href=&#34;https://www.taylorfrancis.com/books/mono/10.1201/9780429192760/statistical-computing-maria-rizzo&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Statistical Computing with R&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;This the first R package that I developed. The SCR R package serves as an associate tool to help students get a deep understanding about the book “Statistical Computing with R”, including nearly 100 R functions implemented by me and my co-wokers Yinuo &amp;amp; Wenyu.&lt;/p&gt;
+&lt;p&gt;The &lt;a href=&#34;https://scr-vignette.netlify.app/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;vignette&lt;/a&gt; displays the method to downlod, install, and use this package.&lt;/p&gt;
+&lt;p&gt;Hope you find this package useful when you exploring the book &amp;ldquo;Statistical Computing with R&amp;rdquo;.
+If you have any problems, please feel free to contact me. Have fun!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>a Breast Cancer Analysis</title>
+      <link>/project/breastcanceranalysis/</link>
+      <pubDate>Thu, 05 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/project/breastcanceranalysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ggplot2 - A Strong Package Used in Data Visulization</title>
+      <link>/post/ggplot2/ggplot2/</link>
+      <pubDate>Sun, 27 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/post/ggplot2/ggplot2/</guid>
+      <description>&lt;!-- ```{r setup, include=FALSE}
+library(babynames)
+library(mdsr)
+library(dplyr)
+library(Hmisc)
+```   --&gt;
+&lt;p&gt;ggplot2 is an R package created by Hadley Wickham. It has a great use in statistical data visulization. I got in touch with it in the first year of my graduate study and I had so much fun presenting statistical plot with the help of ggplot2! However, there are so many aesthetics and parameter settings in this package, and it is easy to mixed up. &lt;a href=&#34;https://hbctraining.github.io/Intro-to-R-flipped/cheatsheets/data-visualization-2.1.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ggplot cheatsheet&lt;/a&gt; is always ready for help. I decided to summarise the most common used aesthetics of ggplot2 as well as how to make a qualified plot in statistics. Hope you may find this blog useful!&lt;/p&gt;
+&lt;h3 id=&#34;practical-thins-to-make-a-plot-better&#34;&gt;Practical thins to make a plot better&lt;/h3&gt;
+&lt;p&gt;There are 8 criterions one has to meet in order to make a plot better:&lt;br&gt;
+• Label the axis&lt;br&gt;
+• Have a title&lt;br&gt;
+• Make sure the title and axis are large enough&lt;br&gt;
+• Label the plot or have a legend&lt;br&gt;
+• Text on plots is great&lt;br&gt;
+• Use color and fill effectively groups&lt;br&gt;
+• Don&amp;rsquo;t make a plot overly complex &amp;ndash; make two plots&lt;br&gt;
+• Get rid of non-essentials&lt;/p&gt;
+&lt;h3 id=&#34;common-used-aesthetics&#34;&gt;Common used aesthetics&lt;/h3&gt;
+&lt;h4 id=&#34;geom&#34;&gt;Geom&lt;/h4&gt;
+&lt;pre&gt;&lt;code&gt;• geom_point()
+• geom_smooth()  
+• geom_boxplot() 
+• geom_bar()
+• geom_histogram()
+• geom_density()     
+• geom_linerange()
+• geom_text()
+• geom_curve(x = , xend = , y = , yend = , arrow = arrow(length = unit(0.3, &#39;cm &#39;)), curvature = 0.5)
+• stat_function()
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Tips: if the variable is not continues, use bar graphs to display the distribution of categorical variables instead of histogram or density plot.&lt;/p&gt;
+&lt;h4 id=&#34;theme&#34;&gt;THEME&lt;/h4&gt;
+&lt;pre&gt;&lt;code&gt;• theme(axis.text = element_text(),
+	   axis.tltle = element_text(),
+	   plot.title = element_text(),
+	   legend.position = , 
+	   legend.title = element_blank(),
+	   axis.text.x = element_text(size = 10, angle = 90, hjust = 1, face = &#39;bold&#39;)
+• ylab(&#39;&#39;) 
+• xlab()
+• ggtitle(&#39;&#39;)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h4 id=&#34;guides--legend&#34;&gt;GUIDES &amp;amp; LEGEND&lt;/h4&gt;
+&lt;pre&gt;&lt;code&gt;• guides()
+• ylim()
+• coord_trans() 
+• coord_flip()
+• scale_y_continuous() 
+• scale_y_discrete()
+• scale_color()  
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Tips: The only difference between coord_trans() and scale_y_continuous() is where the tick marks on the axis are drawn (scale_y_continuous has the tick more evenly)&lt;/p&gt;
+&lt;h4 id=&#34;facet&#34;&gt;FACET&lt;/h4&gt;
+&lt;pre&gt;&lt;code&gt;• facet_wrap(~, nrow = )
+• facet_grid(~, labeller = label_both)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h4 id=&#34;color&#34;&gt;COLOR&lt;/h4&gt;
+&lt;pre&gt;&lt;code&gt;• RColorBrewer  
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;library(RColorBrewer)&lt;br&gt;
+display.brewer.all()&lt;br&gt;
+g + scale_fill_brewer(palette = &amp;lsquo;Accent&amp;rsquo;, &amp;lsquo;Dark2&amp;rsquo;)&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;• wesanderson  
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;library(wesanderson)&lt;br&gt;
+ag + scale_fill_brewer(&amp;lsquo;Zissou1&amp;rsquo;)&lt;br&gt;
+g + scale_fill_manual(values = wes_palette(n = 3, name = &amp;lsquo;Zissou1&amp;rsquo;, &amp;lsquo;FantasticFox1&amp;rsquo;))&lt;/p&gt;
+&lt;h3 id=&#34;examples&#34;&gt;Examples&lt;/h3&gt;
+&lt;p&gt;ggplot is so powerful a tool that one can recreate almost any plot with R. Here is an excellent blog post from &lt;a href=&#34;https://simplystatistics.org/2019/08/28/you-can-replicate-almost-any-plot-with-ggplot2/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Rafa Irizarry&lt;/a&gt; on how to recreate plots using ggplot2 from blog Simply Statistics.&lt;br&gt;
+On Data Science class, we recreated a plot from a &lt;a href=&#34;https://fivethirtyeight.com/features/how-to-tell-someones-age-when-all-you-know-is-her-name/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FiveThirtyEight&lt;/a&gt; blog. That interesting experience shows how useful ggplot2 is and I am writing this blog to show how we recreate that plot.&lt;/p&gt;
+&lt;h4 id=&#34;data-wrangling&#34;&gt;Data wrangling&lt;/h4&gt;
+&lt;p&gt;We used the make_babynames_dist() function in the mdsr package to add some more convenient variables to our dataset and to filter for only the data that is relevant to people alive in 2014.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;BabynamesDist &amp;lt;- make_babynames_dist() 
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;head(BabynamesDist)
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;We filtered the data so we only have babies with the name Joseph who are male.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;joseph &amp;lt;- BabynamesDist %&amp;gt;%
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  filter(name == &amp;#39;Joseph&amp;#39; &amp;amp; sex == &amp;#39;M&amp;#39;)
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h4 id=&#34;data-visualization&#34;&gt;Data visualization&lt;/h4&gt;
+&lt;p&gt;We ploted the number of Joseph’s born each year who are estimated to be alive on January 1, 2014. We will get that estimate by mutiplying the number of Josephs born in a year by the probability that a person from that year will be alive on January 1, 2014. We added the line for the number of Josephs born each year to our plot.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;name_plot &amp;lt;- ggplot(data = joseph) + 
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  geom_bar(aes(x = year, y = count_thousands * alive_prob),
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;           stat = &amp;#39;identity&amp;#39;, fill = &amp;#39;#b2d7e9&amp;#39;, 
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;           colour = &amp;#39;white&amp;#39;) +
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  geom_line(aes(x = year, y = count_thousands), 
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;            lwd = 1) + 
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  ylab(&amp;#34;Number of People (thousands)&amp;#34;) + 
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  xlab(NULL) + 
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  theme(axis.title = element_text(size = 16, 
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;                                  face = &amp;#34;bold&amp;#34;))
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;name_plot
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;../img/1.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Next we need to add a darker blue bar indicating the median year of birth for a Jospeh alive on January 1, 2014.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;median_yob &amp;lt;- with(joseph, wtd.quantile(year, est_alive_today, probs = .5))
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;name_plot &amp;lt;- name_plot + 
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  geom_bar(stat = &amp;#39;identity&amp;#39;, color = &amp;#39;white&amp;#39;, fill = &amp;#39;#008fd5&amp;#39;, 
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;           aes(x = year, y = if_else(year == median_yob,
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;                           est_alive_today/1000, 0)))
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;name_plot
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;../img/2.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Finally we updated the axis labels&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;name_plot_2 &amp;lt;- name_plot + 
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  ggtitle(&amp;#34;Age Distribution of American Boys Joseph&amp;#34;) + 
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  geom_text(x = 1940, y = 30, 
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;            label = &amp;#34;Number of Josephs \n born each year&amp;#34;) + 
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  geom_text(x = 1929, y = 12, 
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;            label = &amp;#34;Number of Josephs \n born each year 
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;            \n estimated to be alive&amp;#34;, colour = &amp;#34;#b2d7e9&amp;#34;) + 
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  geom_text(x = 2003, y = 37, 
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;            label = &amp;#34;The median \nliving Joseoph 
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;            \n is 37 years old&amp;#34;, colour = &amp;#34;darkgray&amp;#34;)+
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  geom_curve(x = 1995, xend = 1974, y = 37, yend = 24, 
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;             arrow = arrow(length = unit(.3, &amp;#34;cm&amp;#34;)), 
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;             curvature = .5) + ylim(0, 40) + 
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  theme(plot.title = element_text(size = 22))
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;name_plot_2
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;../img/3.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;We can also change the name to &amp;ldquo;Jessie&amp;rdquo; and the sex to &amp;ldquo;female&amp;rdquo;&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;name_plot %+% filter(BabynamesDist, name == &amp;#39;Josephine&amp;#39; &amp;amp; sex == &amp;#39;F&amp;#39;)
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;../img/4.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>How to Create an R Package</title>
+      <link>/post/rpackage/rpackage/</link>
+      <pubDate>Sun, 27 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/post/rpackage/rpackage/</guid>
+      <description>&lt;p&gt;R packages are strong tools in R coding. Whenever we code with R to do some complex data analyzing, R packages will always help. It is cool to make one&amp;rsquo;s R package to share code with others. I learned how to create an R package in the Data Science class and decided to write the procedure in this blog. I Hope it is helpful for you.&lt;br&gt;
+Ready to build your R package? Let&amp;rsquo;s start!&lt;/p&gt;
+&lt;h2 id=&#34;1-make-a-new-project-in-a-new-directory&#34;&gt;1. Make a new project in a new directory&lt;/h2&gt;
+&lt;p&gt;In RStudio, go to File &amp;raquo; New Project. Select to make a new project in a new directory.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;../img/1.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+Select the project type as an R Package.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;../img/2.bmp&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Name the R Package, select the working directory where the R package will be in, and click &amp;lsquo;Create Package&amp;rsquo;.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;../img/3.jpg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Now go to the directory and check out what you have!&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;../img/40.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;You can see the same thing inside of RStudio:&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;../img/4.bmp&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;2-write-your-functions&#34;&gt;2. Write your functions&lt;/h2&gt;
+&lt;p&gt;After you have created the package, install, and library these two packages:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;library(devtools)
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;library(roxygen2)
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Go to File &amp;raquo; New File &amp;raquo; R Script. In this R Script we will write to create an R file with a function for our package:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;# Sample function 
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;diamond_plot &amp;lt;- function(df, varx, vary){
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  ggplot(df, aes(x=get(varx), y=get(vary))) +
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  geom_point(shape=23, fill=&amp;#34;blue&amp;#34;, color=&amp;#34;darkred&amp;#34;, size=3)
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Once we are done writing the function, we will save this R Script as diamond_plot.R in the R folder of our package.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;../img/5.bmp&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Let&amp;rsquo;s take a look at what this function does.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;# Draw sample plot with the function.
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;df.test &amp;lt;- data.frame(x = rnorm(10),
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;                      y = rnorm(10))
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;diamond_plot(df.test, &amp;#39;x&amp;#39;, &amp;#39;y&amp;#39;)
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;../img/60.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;3-add-documentation-for-your-package&#34;&gt;3. Add documentation for your package.&lt;/h2&gt;
+&lt;p&gt;While you have the script diamond_plot.R open, go to Code &amp;raquo; Insert Roxygen Skeleton. Make sure your cursor is inside of the function when you do this.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;../img/61.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Now you can fill in your documentation.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;../img/6.bmp&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Go up a level to find the DESCRIPTION file, click on the DESCRIPTION file and edit it.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;../img/7.bmp&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;4-add-data-to-your-package&#34;&gt;4. Add Data to your package&lt;/h2&gt;
+&lt;p&gt;Make a data folder.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;../img/8.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;Save data in this folder using a .RData object.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;# Sample data
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;sample_data &amp;lt;- data.frame(x = rnorm(10),
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;                          y = rnorm(10),
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;                          z = rnorm(10))
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;                          
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;save(sample_data, file = &amp;#39;ExamplePackage/data/sample_data.RData&amp;#39;)
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;    &lt;/p&gt;
+&lt;h2 id=&#34;5-install-and-check-the-packages&#34;&gt;5. Install and Check the Packages&lt;/h2&gt;
+&lt;p&gt;Run the following code in the same working directory as the package.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;document()
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;And then go down one level in the working directory and run the following code.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;setwd(&amp;#39;..&amp;#39;)
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;install(&amp;#39;ExamplePackage&amp;#39;)
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;6-check-what-you-got&#34;&gt;6. Check what you got!&lt;/h2&gt;
+&lt;p&gt;Type the following commands in the console, and you can see the documentation of your package.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;?diamond_plot
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;data(sample_data)
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;../img/9.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;7-upload-and-share-your-r-package-with-others&#34;&gt;7. Upload and share your R Package with others.&lt;/h2&gt;
+&lt;p&gt;You can put your package on Github. Make a new repository with the same name as your package, and make it public.&lt;/p&gt;
+&lt;p&gt;Congratulations! Now you can create your R package, install the package from the Github or give it to a friend to use with the following code.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;devtools::install_github(&amp;#39;yourusername/ExamplePackage&amp;#39;)
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>Shiny App</title>
+      <link>/project/shanyapp/</link>
+      <pubDate>Sun, 27 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/project/shanyapp/</guid>
+      <description>&lt;p&gt;Me and my group designed a shiny app (I was mainly in charge of coding part in ui and server) for Happy Valley Meat Company to calculate and visualize the invironmental impact for each cut of meat as the midterm project in Data Science class. The shinyio website can be found &lt;a href=&#34;https://tianran.shinyapps.io/midterm_project/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Slides</title>
+      <link>/slides/example/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/slides/example/</guid>
+      <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://owchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Efficiently write slides in Markdown&lt;/li&gt;
+&lt;li&gt;3-in-1: Create, Present, and Publish your slides&lt;/li&gt;
+&lt;li&gt;Supports speaker notes&lt;/li&gt;
+&lt;li&gt;Mobile friendly slides&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;controls&#34;&gt;Controls&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Next: &lt;code&gt;Right Arrow&lt;/code&gt; or &lt;code&gt;Space&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Previous: &lt;code&gt;Left Arrow&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Start: &lt;code&gt;Home&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Finish: &lt;code&gt;End&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Overview: &lt;code&gt;Esc&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Speaker notes: &lt;code&gt;S&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Fullscreen: &lt;code&gt;F&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Zoom: &lt;code&gt;Alt + Click&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://revealjs.com/pdf-export/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF Export&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;code-highlighting&#34;&gt;Code Highlighting&lt;/h2&gt;
+&lt;p&gt;Inline code: &lt;code&gt;variable&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Code block:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;porridge&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;blueberry&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;if&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;porridge&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;==&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;blueberry&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;Eating...&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
+&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
+&lt;p&gt;In-line math: $x + y = z$&lt;/p&gt;
+&lt;p&gt;Block math:&lt;/p&gt;
+&lt;p&gt;$$
+f\left( x \right) = ;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
+$$&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;fragments&#34;&gt;Fragments&lt;/h2&gt;
+&lt;p&gt;Make content appear incrementally&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% fragment %}} One {{% /fragment %}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% fragment %}} **Two** {{% /fragment %}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% fragment %}} Three {{% /fragment %}}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+  One
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+  &lt;strong&gt;Two&lt;/strong&gt;
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+  Three
+&lt;/span&gt;
+&lt;hr&gt;
+&lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;class&lt;/code&gt;: use a custom style (requires definition in custom CSS)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;weight&lt;/code&gt;: sets the order in which a fragment appears&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;speaker-notes&#34;&gt;Speaker Notes&lt;/h2&gt;
+&lt;p&gt;Add speaker notes to your presentation&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% speaker_note %}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;-&lt;/span&gt; Only the speaker can read these notes
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;-&lt;/span&gt; Press &lt;span class=&#34;sb&#34;&gt;`S`&lt;/span&gt; key to view
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  {{% /speaker_note %}}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
+&lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;black: Black background, white text, blue links (default)&lt;/li&gt;
+&lt;li&gt;white: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;league: Gray background, white text, blue links&lt;/li&gt;
+&lt;li&gt;beige: Beige background, dark text, brown links&lt;/li&gt;
+&lt;li&gt;sky: Blue background, thin dark text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;night: Black background, thick white text, orange links&lt;/li&gt;
+&lt;li&gt;serif: Cappuccino background, gray text, brown links&lt;/li&gt;
+&lt;li&gt;simple: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;solarized: Cream-colored background, dark green text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;/media/boards.jpg&#34;
+  &gt;
+
+&lt;h2 id=&#34;custom-slide&#34;&gt;Custom Slide&lt;/h2&gt;
+&lt;p&gt;Customize the slide style and background&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;slide&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;background-image&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;/media/boards.jpg&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;slide&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;background-color&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;#0000FF&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;slide&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;class&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;my-style&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
+&lt;h2 id=&#34;custom-css-example&#34;&gt;Custom CSS Example&lt;/h2&gt;
+&lt;p&gt;Let&amp;rsquo;s make headers navy colored.&lt;/p&gt;
+&lt;p&gt;Create &lt;code&gt;assets/css/reveal_custom.css&lt;/code&gt; with:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-css&#34; data-lang=&#34;css&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nc&#34;&gt;reveal&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;section&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;h1&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nc&#34;&gt;reveal&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;section&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;h2&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nc&#34;&gt;reveal&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;section&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;h3&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;k&#34;&gt;color&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;kc&#34;&gt;navy&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
+&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/discussions&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>FFD</title>
+      <link>/project/ffd/</link>
+      <pubDate>Tue, 15 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/project/ffd/</guid>
+      <description>&lt;p&gt;Apply the algorithm about 3D Free Form Deformation (FFD) with the toolkit VTK. Plus, utilizing the 3D Face Resruction model PRNet, we realize the workflow of 2D-Face -&amp;gt; 3D-Face -&amp;gt; 3D-FFD. It&amp;rsquo;s a course project about visualization, working with Jing Wang and Donghao Li.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
